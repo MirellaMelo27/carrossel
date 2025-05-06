@@ -1,0 +1,16 @@
+body{
+    background-color: #f5f3ee;
+    color: #140e0bcf;
+    text-align: center;
+}
+
+img{
+    max-width: 900px;
+    min-width:900px;
+}
+
+#carrossel{
+    display: flex;
+    justify-content: center;
+    
+}
